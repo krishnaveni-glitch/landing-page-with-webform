@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&display=swap');
+
+body{
+    background-image: url("https://res.cloudinary.com/do8a0ee4u/image/upload/v1708273651/security_background_camera_xltpww.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:20px;
+}
+.heading{
+    padding :5px; 
+}
+.heading1{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: whitesmoke;
+    word-spacing: 5px;
+}
+.heading2{
+    font-family: "Dancing Script", cursive;
+    color:whitesmoke;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+}
+img{
+    border: 2px solid transparent;
+    border-radius: 10px;
+    margin:10px;
+    height:25vh;
+    width: 25vw;
+}
+.product{
+    font-family: "Dancing Script", cursive;
+    margin:10px;
+}
+.heading3{
+    font-family: "Dancing Script", cursive;
+    color: whitesmoke;
+    
+}
+.details{
+    margin-left: 20px;
+    font-family: "Dancing Script", cursive;
+    color: whitesmoke;
+    padding: 10px;
+    border: 5px rgb(6, 229, 241);
+    background-image: url(https://res.cloudinary.com/do8a0ee4u/image/upload/v1708665381/details_background_w2xoby.jpg);
+    border-radius: 10px;
+    margin-right: 60vw;
+}
+
+.input-styling{
+    background-color: transparent;
+}
+.submit-button{
+    background-color: rgb(247, 5, 106);
+    color: white;
+    font-family: "Lobster", sans-serif;
+    letter-spacing: 1px;
+
+}
+
